@@ -1,0 +1,11 @@
+What I achieved in Git & GitHub so far with Pathy:-
+
+1- Learned the concept of Version Control and its importance in tracking and managing project changes.
+2- understood the difference between Absolute Paths and Relative Paths
+3- understood the difference between Git as a version control tool and GitHub as a platform for hosting and collaborating on projects.
+4- Create my first project on github.
+5- Creating a GitHub account and a repository.
+6- Installing the required tools: Git and VS Code.
+7- Learning what the Command Line is and why developers use it.
+8- Understanding the difference between a File and a Folder.
+9- Copying, moving, and deleting files using commands.
